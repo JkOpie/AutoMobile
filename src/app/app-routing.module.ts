@@ -11,6 +11,14 @@ const routes: Routes = [
     redirectTo: 'home',
     pathMatch: 'full'
   },
+  {
+    path: 'add-post',
+    loadChildren: () => import('./add-post/add-post.module').then( m => m.AddPostPageModule)
+  },
+  {
+    path: 'edit-page/:id',
+    loadChildren: () => import('./edit-page/edit-page.module').then( m => m.EditPagePageModule)
+  },
 ];
 
 @NgModule({
@@ -19,4 +27,6 @@ const routes: Routes = [
   ],
   exports: [RouterModule]
 })
+
+
 export class AppRoutingModule { }
