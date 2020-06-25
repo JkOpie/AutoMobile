@@ -7,6 +7,8 @@ Auto-Mobile is a mobile application which is developed in Ionic Angular framewor
 * Login and Register 
 * Create, edit and delete maintenance
 * Display list of nearby workshop report based on distance
+* Display list of vehicle
+* Display list of emergency contact
 * Display and search list maintanance
 * Display map based on current user location and workshop
 
