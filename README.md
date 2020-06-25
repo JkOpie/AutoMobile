@@ -12,9 +12,5 @@ Auto-Mobile is a mobile application which is developed in Ionic Angular framewor
 
 ## Pages of the project
 
-<img src="https://github.com/JkOpie/AutoMobile/blob/master/src/assets/icon/AutoMobile/emergency.png" width="50%" height="300"></img> <img src="https://github.com/JkOpie/AutoMobile/blob/master/src/assets/icon/AutoMobile/login.png" width="50%" height="300"></img><img src="" width="50%" height="300"></img><img src="https://github.com/JkOpie/AutoMobile/blob/master/src/assets/icon/AutoMobile/maintenancelist.png" width="50%" height="300"></img> 
-<img src="https://github.com/JkOpie/AutoMobile/blob/master/src/assets/icon/AutoMobile/map.png" width="50%" height="300"></img> 
-<img src="https://github.com/JkOpie/AutoMobile/blob/master/src/assets/icon/AutoMobile/register.png" width="50%" height="300"></img> 
-<img src="https://github.com/JkOpie/AutoMobile/blob/master/src/assets/icon/AutoMobile/vehiclelist.png width="50%" height="300"></img> 
-<img src="https://github.com/JkOpie/AutoMobile/blob/master/src/assets/icon/AutoMobile/workshoplist.png" width="50%" height="300"></img> 
+<img src="https://github.com/JkOpie/AutoMobile/blob/master/src/assets/icon/AutoMobile/emergency.png" width="30%" height=""></img> <img src="https://github.com/JkOpie/AutoMobile/blob/master/src/assets/icon/AutoMobile/login.png" width="30%" height=""></img><img src="https://github.com/JkOpie/AutoMobile/blob/master/src/assets/icon/AutoMobile/maintenancelist.png" width="30%" height=""></img> <img src="https://github.com/JkOpie/AutoMobile/blob/master/src/assets/icon/AutoMobile/map.png" width="30%" height=""></img>  <img src="https://github.com/JkOpie/AutoMobile/blob/master/src/assets/icon/AutoMobile/register.png" width="30%" height=""></img> <img src="https://github.com/JkOpie/AutoMobile/blob/master/src/assets/icon/AutoMobile/vehiclelist.png" width="30%" height=""></img> <img src="https://github.com/JkOpie/AutoMobile/blob/master/src/assets/icon/AutoMobile/workshoplist.png" width="30%" height=""></img> 
 
