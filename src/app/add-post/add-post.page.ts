@@ -21,6 +21,7 @@ export class AddPostPage implements OnInit {
   }
 
   async createPost(post:Post){  
+    
     let loader = this.loadingCtrl.create({
       message: "Please wait..."
     });

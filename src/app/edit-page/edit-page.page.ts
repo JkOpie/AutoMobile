@@ -18,7 +18,7 @@ export class EditPagePage implements OnInit {
     private actRoute: ActivatedRoute,
     private loadingCtrl: LoadingController,
     private firestore: AngularFirestore,
-    private navCtrl:NavController
+    private navCtrl: NavController
   ) { 
     this.id = this.actRoute.snapshot.paramMap.get("id");
   }
